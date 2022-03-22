@@ -80,7 +80,7 @@
         </ActivityAction>
       </ui:OpenBrowser.Body>
     </ui:OpenBrowser>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;text1 and text3&quot;]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;text2&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;text1 and text5&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="467,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;text4&quot;]" />
   </Sequence>
 </Activity>
